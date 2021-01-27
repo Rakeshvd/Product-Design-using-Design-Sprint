@@ -16,7 +16,7 @@ The Design Sprint follows six phases: **Understand, Define, Sketch, Decide, Prot
 
 In this Design Sprint project, I will be going through the techniques of design sprint and we will discuss methods to simulate some of the group activities related to brainstorming.
 
-Product Scenario:
+Product Scenario(madeup):
 
 LinkedIn is trying to expand its job market offerings by creating an app that will recommend the best jobs to recent college graduates based on their skills and preferences.
 Lets call this new feature as **LinkedInGrad-carrers for freshers**
