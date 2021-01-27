@@ -14,7 +14,7 @@ The Design Sprint follows six phases: **Understand, Define, Sketch, Decide, Prot
 ![alt text](https://designsprintkit.withgoogle.com/assets/img/method/sprint-framework-with-methods.png) 
 
 
-In this Design Sprint project, I will be going through the exercises and we will discuss methods to simulate some of the group activities related to brainstorming.
+In this Design Sprint project, I will be going through the techniques of design sprint and we will discuss methods to simulate some of the group activities related to brainstorming.
 
 Product Scenario:
 
