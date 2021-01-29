@@ -21,6 +21,8 @@ Product Scenario(madeup):
 LinkedIn is trying to expand its job market offerings by creating an app that will recommend the best jobs to recent college graduates based on their skills and preferences.
 Lets call this new feature as **LinkedInGrad-carrers for freshers**
 
+Click here to try the Prototype!(Figma): https://www.figma.com/proto/tokV8QqZJlfqnADfUXOoCm/LinkedInGrad-(2)?node-id=5%3A2&scaling=scale-down
+
 *Attached pdf fill contain the complete details of this project*
 
 Added linked in PDF:
@@ -29,7 +31,6 @@ Product Requiremenst Dcoument: https://docs.google.com/document/d/1kBqE63sOMZYNg
 
 Sorted Stikies: https://docs.google.com/presentation/d/1o5HaOwR8Wy_JHVvet0h2_wYMOSINjS3PMc_4H00BYUA/edit?usp=sharing
 
-Prototype(Figma): https://www.figma.com/proto/tokV8QqZJlfqnADfUXOoCm/LinkedInGrad-(2)?node-id=5%3A2&scaling=scale-down
 
 ### References
 
