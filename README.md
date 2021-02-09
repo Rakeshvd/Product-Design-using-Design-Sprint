@@ -1,6 +1,6 @@
 # Product Design using Design Sprint
 
-Design Sprint is an open-source resource delveloped by Google Ventures for design leaders, product owners, developers or anyone who is learning about or running Design Sprints.
+Design Sprint is an open-source resource developed by Google Ventures for design leaders, product owners, developers or anyone who is learning about or running Design Sprints.
 
 
 * The Design Sprint is a proven methodology for solving problems through designing, prototyping, and testing ideas with users. 
